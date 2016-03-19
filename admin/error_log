@@ -1,0 +1,2 @@
+[19-Mar-2016 11:35:56 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/carlod1i/public_html/admin/add/addplanes.php on line 22
+[19-Mar-2016 12:00:28 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/carlod1i/public_html/admin/add/addplanes.php on line 22
